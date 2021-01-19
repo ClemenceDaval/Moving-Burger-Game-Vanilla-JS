@@ -4,6 +4,8 @@ body {
 
 .terrain_de_jeu{
     margin: 2em auto;
+    display:flex;
+    flex-direction: column;
 }
 .square {
     width: 50px;
